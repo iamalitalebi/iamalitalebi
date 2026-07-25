@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ali Talebi
 
-<!--
-**iamalitalebi/iamalitalebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer & conversion specialist. Founder of Mithris Studio.
 
-Here are some ideas to get you started:
+I build websites for aesthetic medicine, clinics, and luxury retail —
+Next.js front ends where the goal is booked appointments and sales,
+not just a nice-looking page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent: rebuilt a medical aesthetics client's funnel and checkout —
+monthly revenue went from $8K to $54K.
+
+### Stack
+Next.js (App Router) · React · TypeScript · Tailwind · Framer Motion
+WordPress / Elementor / WooCommerce · Figma · GA4 · CI/CD
+
+### Live work
+- [gold.mithris.ir](https://gold.mithris.ir) — luxury gallery, live-pricing API, bilingual RTL
+- [clinic.mithris.ir](https://clinic.mithris.ir) — clinic landing page, before/after slider
+- [mithris.co](https://mithris.co) — studio & case study
+
+Most of my client work lives in private repositories.
+Open to contract work — ali@mithris.co
