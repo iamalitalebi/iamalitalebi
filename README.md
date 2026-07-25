@@ -10,8 +10,7 @@ Recent: rebuilt a medical aesthetics client's funnel and checkout —
 monthly revenue went from $8K to $54K.
 
 ### Stack
-Next.js (App Router) · React · TypeScript · Tailwind · Framer Motion
-WordPress / Elementor / WooCommerce · Figma · GA4 · CI/CD
+Next.js (App Router) · React · TypeScript · Tailwind · Framer Motion · WordPress / Elementor / WooCommerce · Figma · GA4 · CI/CD
 
 ### Live work
 - [gold.mithris.ir](https://gold.mithris.ir) — luxury gallery, live-pricing API, bilingual RTL
